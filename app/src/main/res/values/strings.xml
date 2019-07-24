@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hitung">hitung</string>
+    <string name="tinggi">tinggi</string>
+    <string name="lebar">lebar</string>
+    <string name="panjang">panjang</string>
+    <string name="hasil">hasil</string>
+    <string name="Tipe">Tipe</string>
+    <string name="Nama_Senjata">Nama Senjata</string>
+    <string name="Enter">Enter</string>
+    <string name="Pindah">pindah</string>
+</resources>
